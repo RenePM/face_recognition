@@ -1,4 +1,4 @@
-# Face Recognition
+# Custom Object Recognition
 The idear behind this fork is to continiue the great work of face_recogntion to make a Python Object Recognition API using dblib
 
 MUST Have features:
