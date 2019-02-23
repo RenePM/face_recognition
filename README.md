@@ -1,4 +1,9 @@
 # Face Recognition
+The idear behind this fork is to continiue the great work of face_recogntion to make a Python Object Recognition API using dblib
+
+MUST Have features:
+STILL TO COME.....
+
 
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)._
 
